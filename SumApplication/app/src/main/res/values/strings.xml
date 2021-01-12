@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SumApplication</string>
+    <string name="sum_is">Sum is : %d</string>
+</resources>
